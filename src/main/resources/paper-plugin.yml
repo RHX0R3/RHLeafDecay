@@ -1,0 +1,7 @@
+name: RHLeafDecay
+version: '1.21_R2'
+main: eu.raidersheaven.rhleafdecay.main.Main
+api-version: '1.21'
+authors: [ X0R3 ]
+description: Increases the decay of leaves.
+website: https://raidersheaven.eu/
